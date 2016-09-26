@@ -1,4 +1,4 @@
-# valETL
+ETL Exercise
 Notes
 
 Place the datafile MarketingDataFile.txt into the \bin\Debug\CodingExercise\ directory.
@@ -11,6 +11,13 @@ Design:
 The program imports a flat data file and parses it into a list based upon a formating string. 
 The list is then checked row by row to see if the data is less than todays date.
 Output value to screen and file.
+
+Questions:
+Where did the data originate from? 
+Does the datafile also contain other information other that just date information?
+Might data actually have come from Excel, and a type conversion done i.e. DateValue function?  
+I only get one valid value from parsing this dataset. Could that be right? 
+
 
 ~~~~~~~~~~~~~~~~~~~~
 Data Given:
