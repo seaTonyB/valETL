@@ -15,8 +15,9 @@ Output value to screen and file.
 Questions:
 Where did the data originate from? 
 Does the datafile also contain other information other that just date information?
+I only get one valid value back, and not in this century. 
 Might data actually have come from Excel, and a type conversion done i.e. DateValue function?  
-I only get one valid value from parsing this dataset. Could that be right? 
+
 
 
 ~~~~~~~~~~~~~~~~~~~~
